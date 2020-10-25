@@ -1,4 +1,4 @@
-1. This is the javascript frontend of blackjack api.
+1. This is the javascript frontend of blackjack api angular application.
 2. The url http://localhost:4200/players gives the list of players in the database.
 3. The database called player has a table called tbl_player and is connected to this application and the columns are id, name and coins.
 4. Routing has been enabled to navigate to other url like http://localhost:4200/create-players and http://localhost:4200/players/{id}.
